@@ -11,7 +11,7 @@ pipeline {
     }
     stage('Arquivar') {
       steps {
-        archiveArtifacts '*.jar'
+        archiveArtifacts 'target/*.jar'
       }
     }
   }
