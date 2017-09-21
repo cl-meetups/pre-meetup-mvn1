@@ -1,7 +1,7 @@
 package org.jenkinsci.blueocean;
 
 /**
- * Hello world!
+ * Hello Blue Ocean!
  */
 public class App {
     public static void main(String[] args) {
